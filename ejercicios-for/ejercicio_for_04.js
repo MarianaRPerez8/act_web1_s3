@@ -22,3 +22,4 @@ for (let i = 2; i <= 100; i++) {
 }
 
 console.log("Se encontraron " + contadorPrimos + " números primos entre 1 y 100.");
+fg
